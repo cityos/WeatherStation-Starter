@@ -1,0 +1,3 @@
+# In this file we define what frameworks do we need for our application
+
+github "cityos/WeatherStationFactory" "master"
